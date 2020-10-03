@@ -65,12 +65,10 @@ height: auto;
   color: red;
   font-weight: bold;
   text-align: center;
-  margin-bottom: 0;
   position: relative;
   bottom: 35px;
   left: 100px;
   width: 0px;
-  height: 0px;
 }
 
 .overallReviewImg{
