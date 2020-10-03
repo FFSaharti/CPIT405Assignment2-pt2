@@ -29,7 +29,6 @@ width: 30%;
 
 .overallContent{
   width: 92%;
-  height: 1480px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0;
@@ -44,7 +43,6 @@ width: 30%;
   background-size: 83px;
   background-repeat:repeat-x;
   background-size: 80px;
-  height: 100px;
 }
 
 .ratingBanner{
@@ -93,7 +91,6 @@ display: flex;
 .reviewsDiv{
   width: 100%;
   padding-top: 10px;
-  height:500px;
 }
 
 .quote-div {
